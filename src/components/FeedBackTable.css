@@ -1,0 +1,28 @@
+/* .feedback-container{
+background-color: #ebebeb
+} */
+
+.table>:not(caption)>*>*{
+    padding: 0.7rem 2rem ;
+}
+.table{
+    border-color:#b5bbc1;
+     font-size:1rem
+}
+.table-container{
+    background-color:white;
+     min-height:10vh
+}
+.info-container{
+ background-color:white
+ }
+#selectAllCheckbox{
+    background-image: url("./../Images/selectAllCheckboxes.png");
+    background-color: rgba(13,110,253,1);
+}
+#selectAllCheckbox:checked{
+    background-image: url("./../Images/image2_1.jpeg");
+} 
+.heading-col{
+background-color: #e2dfd9 
+}

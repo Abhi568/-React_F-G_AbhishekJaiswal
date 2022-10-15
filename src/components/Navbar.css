@@ -1,0 +1,13 @@
+.nav-link{
+    color:white !important; 
+    font-size: 1rem;
+}
+.nav-brand-link , .nav-brand-link:hover{
+    color:rgb(134, 134, 238) !important;
+}
+.nav-link:hover{
+    color:rgb(248, 239, 223) !important;
+}
+.navbar-toggler{
+    background-color: wheat;
+}

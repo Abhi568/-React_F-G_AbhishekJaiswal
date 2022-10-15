@@ -1,0 +1,45 @@
+
+.feeback-page {
+    background-color: #ebebeb !important;
+}
+
+.height-of-col {
+    height: 8rem;
+}
+
+.form-check-input {
+    border-radius: 10% !important;
+}
+
+.form-check-input:checked[type=radio] {
+    background-image: url("./../Images/image2_1.jpeg")
+}
+
+.form-label:after {
+    content: "*";
+    color: red;
+    margin-left: 2px;
+}
+.form-label{
+    font-size: 1.1rem;
+}
+.select-country-code{
+    cursor: pointer;
+}
+
+#feedback {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 85vh;
+}
+
+.tickFeedback {
+    width: 5rem;
+    height: 5rem
+}
+
+#close-thankyou-page {
+    background-color: #a277f1;
+}

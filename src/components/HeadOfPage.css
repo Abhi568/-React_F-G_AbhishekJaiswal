@@ -1,0 +1,22 @@
+/* form{
+    height: 5rem;
+    border:2px solid red;
+} */
+.navbar-brand{
+    display: flex;
+    align-items: center;
+}
+.add-btn{
+min-width: 6rem !important;
+}
+.head-of-page{
+    padding:0.5rem 0.5rem 0.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.refersh-button{
+background-color: white;
+ border: 1px solid #ced4da;
+ cursor: pointer;
+}
