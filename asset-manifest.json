@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React_F-G_AbhishekJaiswal/static/css/main.fbe8c1f4.css",
-    "main.js": "/React_F-G_AbhishekJaiswal/static/js/main.3382cafe.js",
-    "static/js/787.6bef6b56.chunk.js": "/React_F-G_AbhishekJaiswal/static/js/787.6bef6b56.chunk.js",
-    "static/media/tickFeedback.jpeg": "/React_F-G_AbhishekJaiswal/static/media/tickFeedback.2e48bf4d4def4d6aceff.jpeg",
-    "static/media/image2_1.jpeg": "/React_F-G_AbhishekJaiswal/static/media/image2_1.becc970ddc181d7f9905.jpeg",
-    "static/media/refershImage.png": "/React_F-G_AbhishekJaiswal/static/media/refershImage.3d89cb161e3bf8795c2a.png",
-    "index.html": "/React_F-G_AbhishekJaiswal/index.html",
-    "main.fbe8c1f4.css.map": "/React_F-G_AbhishekJaiswal/static/css/main.fbe8c1f4.css.map",
-    "main.3382cafe.js.map": "/React_F-G_AbhishekJaiswal/static/js/main.3382cafe.js.map",
-    "787.6bef6b56.chunk.js.map": "/React_F-G_AbhishekJaiswal/static/js/787.6bef6b56.chunk.js.map"
+    "main.css": "/RestaurantServiceForm/static/css/main.91231072.css",
+    "main.js": "/RestaurantServiceForm/static/js/main.b5666f1b.js",
+    "static/js/787.6bef6b56.chunk.js": "/RestaurantServiceForm/static/js/787.6bef6b56.chunk.js",
+    "static/media/tickFeedback.jpeg": "/RestaurantServiceForm/static/media/tickFeedback.2e48bf4d4def4d6aceff.jpeg",
+    "static/media/image2_1.jpeg": "/RestaurantServiceForm/static/media/image2_1.becc970ddc181d7f9905.jpeg",
+    "static/media/refershImage.png": "/RestaurantServiceForm/static/media/refershImage.3d89cb161e3bf8795c2a.png",
+    "index.html": "/RestaurantServiceForm/index.html",
+    "main.91231072.css.map": "/RestaurantServiceForm/static/css/main.91231072.css.map",
+    "main.b5666f1b.js.map": "/RestaurantServiceForm/static/js/main.b5666f1b.js.map",
+    "787.6bef6b56.chunk.js.map": "/RestaurantServiceForm/static/js/787.6bef6b56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbe8c1f4.css",
-    "static/js/main.3382cafe.js"
+    "static/css/main.91231072.css",
+    "static/js/main.b5666f1b.js"
   ]
 }
