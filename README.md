@@ -1,5 +1,7 @@
 # RestaurantServiceForm
 
-Form for servicing of Restaurants (Maily focused on designing part)
+Feedback form of Restaurant services (Mainly focused on designing part)
 
-Technologies: HTML, CSS, JAVASCRIPT , REACTJS BOOTSTRAP.
+Link : https://abhi568.github.io/RestaurantServiceForm/
+
+Technologies: HTML, CSS, JAVASCRIPT , REACTJS, BOOTSTRAP.
