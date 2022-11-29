@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/RestaurantServiceForm/static/css/main.91231072.css",
-    "main.js": "/RestaurantServiceForm/static/js/main.b5666f1b.js",
+    "main.js": "/RestaurantServiceForm/static/js/main.9bb7f288.js",
     "static/js/787.6bef6b56.chunk.js": "/RestaurantServiceForm/static/js/787.6bef6b56.chunk.js",
     "static/media/tickFeedback.jpeg": "/RestaurantServiceForm/static/media/tickFeedback.2e48bf4d4def4d6aceff.jpeg",
     "static/media/image2_1.jpeg": "/RestaurantServiceForm/static/media/image2_1.becc970ddc181d7f9905.jpeg",
     "static/media/refershImage.png": "/RestaurantServiceForm/static/media/refershImage.3d89cb161e3bf8795c2a.png",
     "index.html": "/RestaurantServiceForm/index.html",
     "main.91231072.css.map": "/RestaurantServiceForm/static/css/main.91231072.css.map",
-    "main.b5666f1b.js.map": "/RestaurantServiceForm/static/js/main.b5666f1b.js.map",
+    "main.9bb7f288.js.map": "/RestaurantServiceForm/static/js/main.9bb7f288.js.map",
     "787.6bef6b56.chunk.js.map": "/RestaurantServiceForm/static/js/787.6bef6b56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91231072.css",
-    "static/js/main.b5666f1b.js"
+    "static/js/main.9bb7f288.js"
   ]
 }
