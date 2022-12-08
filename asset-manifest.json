@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/RestaurantServiceForm/static/css/main.91231072.css",
-    "main.js": "/RestaurantServiceForm/static/js/main.9bb7f288.js",
+    "main.css": "/RestaurantServiceForm/static/css/main.87335ccb.css",
+    "main.js": "/RestaurantServiceForm/static/js/main.ee5a73b7.js",
     "static/js/787.6bef6b56.chunk.js": "/RestaurantServiceForm/static/js/787.6bef6b56.chunk.js",
-    "static/media/tickFeedback.jpeg": "/RestaurantServiceForm/static/media/tickFeedback.2e48bf4d4def4d6aceff.jpeg",
+    "static/media/tickFeedback.png": "/RestaurantServiceForm/static/media/tickFeedback.c76c3c0a976090735baf.png",
     "static/media/image2_1.jpeg": "/RestaurantServiceForm/static/media/image2_1.becc970ddc181d7f9905.jpeg",
-    "static/media/refershImage.png": "/RestaurantServiceForm/static/media/refershImage.3d89cb161e3bf8795c2a.png",
+    "static/media/refreshImage.png": "/RestaurantServiceForm/static/media/refreshImage.3d89cb161e3bf8795c2a.png",
+    "static/media/lightMode.png": "/RestaurantServiceForm/static/media/lightMode.ec60afc2c4885f0614e3.png",
     "index.html": "/RestaurantServiceForm/index.html",
-    "main.91231072.css.map": "/RestaurantServiceForm/static/css/main.91231072.css.map",
-    "main.9bb7f288.js.map": "/RestaurantServiceForm/static/js/main.9bb7f288.js.map",
+    "main.87335ccb.css.map": "/RestaurantServiceForm/static/css/main.87335ccb.css.map",
+    "main.ee5a73b7.js.map": "/RestaurantServiceForm/static/js/main.ee5a73b7.js.map",
     "787.6bef6b56.chunk.js.map": "/RestaurantServiceForm/static/js/787.6bef6b56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91231072.css",
-    "static/js/main.9bb7f288.js"
+    "static/css/main.87335ccb.css",
+    "static/js/main.ee5a73b7.js"
   ]
 }
